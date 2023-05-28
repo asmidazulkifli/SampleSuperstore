@@ -1,12 +1,15 @@
 # SampleSuperstore
 Sales Analysis using Excel
 
-This is a sample superstore dataset, which I get from Kagle and the excel file deliver insights on how the company can increase its profits and minimizing the losses with extensive data abalysis.
+This is a sample superstore dataset, which I get from Kagle and the excel file deliver insights on how the company can increase its profits and minimizing the losses with extensive data analysis.
 
+The project walkthrough includes the following key points:
 
-Cleaned the data using Power Query and merging necessary tables to overcome ambuguity
+Merged data from multiple excel sheets with Microsoft SQL to overcome ambuguity.
 
-Loaded the datasets to Power Pivot due the large amount of data with the sales data having more than 7 million rows
+Cleaned and transform data using Power Query.
+
+Loaded the datasets to Power Pivot due the large amount of data.
 
 Created relationships; data modeling between the tables via the Diagram View of Power Pivot using many-to-one and one-to-many relationships.
 
